@@ -1,4 +1,4 @@
-# Konfigurasi-Prometheus-dan-grafana di debian 11
+# Konfigurasi-Prometheus-dan-grafana
 
 	Node Promethues
 	------------------------
